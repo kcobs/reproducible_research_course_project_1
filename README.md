@@ -34,5 +34,5 @@ The report needs to be saved in a R Markdown format (`.Rmd`) and commited to a [
 * Open R
 * Set the working directory to the cloned repostory
 * Run `library(knitr)`
-* Run `knit2html(input = 'PA1_template.Rmd')`
-* Look at `PA1_template.html`
+* Run `knit2html(input = 'report.Rmd')`
+* Look at `report.html`
